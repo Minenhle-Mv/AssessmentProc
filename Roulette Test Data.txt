@@ -1,0 +1,27 @@
+[
+  {
+    "betType": 1,
+    "betAmount": 5,
+    "bettingNumbers": 9,
+    "bettingColour": "string",
+    "evenOdd": "string",
+    "highLow": "string"
+  },
+  {
+    "betType": 4,
+    "betAmount": 5,
+    "bettingNumbers": 0,
+    "bettingColour": "Red",
+    "evenOdd": "string",
+    "highLow": "string"
+  },
+  {
+    "betType": 3,
+    "betAmount": 2,
+    "bettingNumbers": 0,
+    "bettingColour": "string",
+    "evenOdd": "Odd",
+    "highLow": "string"
+  }
+]
+
